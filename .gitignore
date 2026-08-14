@@ -1,7 +1,11 @@
+# Verilog / Icarus simulation files
 *.vvp
+*_sim
 *.vcd
 *.fst
 *.log
 *.out
+
+# EDA tool files
 *.jou
 *.wlf
