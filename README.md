@@ -1,6 +1,6 @@
 # Verilog RTL Designs
 
-A collection of RTL design projects developed using Verilog HDL.
+A collection of RTL design projects developed using Verilog HDL, covering digital design fundamentals, RTL development, simulation, and waveform-based debugging.
 
 ## Projects
 
@@ -28,6 +28,7 @@ A collection of RTL design projects developed using Verilog HDL.
 ## Verification
 
 Each major RTL project includes:
+
 - RTL design
 - Verilog testbench
 - Simulation
@@ -41,9 +42,9 @@ Each major RTL project includes:
 - APB Slave
 - SystemVerilog
 - Asynchronous FIFO
-- CDC
+- Clock Domain Crossing (CDC)
 - RTL synthesis and timing analysis
 
 ## Author
 
-Saroj Mahata
+**Saroj Mahata**
